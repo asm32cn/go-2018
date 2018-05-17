@@ -8,7 +8,7 @@ import (
 	"flag"
 );
 
-func GetHttpData(url string) (content string,statusCode int){
+func GetHttpData(url string) (content string, statusCode int){
 	resp, err1 := http.Get(url)
 	if err1 != nil {
 		statusCode = -100;
