@@ -1,0 +1,12 @@
+go-base64-demo-1.go
+程序中书写着所见所闻所感，编译着心中的万水千山。
+strStdEncrypt:
+Z28tYmFzZTY0LWRlbW8tMS5nbwrnqIvluo/kuK3kuablhpnnnYDmiYDop4HmiYDpl7vmiYDmhJ/vvIznvJbor5HnnYDlv4PkuK3nmoTkuIfmsLTljYPlsbHjgII=
+strStdDecrypt:
+go-base64-demo-1.go
+程序中书写着所见所闻所感，编译着心中的万水千山。
+strUserEncrypt:
+Z28tYmFzZTY0LWRlbW8tMS5nbwrnqIvluo/kuK3kuablhpnnnYDmiYDop4HmiYDpl7vmiYDmhJ/vvIznvJbor5HnnYDlv4PkuK3nmoTkuIfmsLTljYPlsbHjgII=
+strUserEncrypt:
+go-base64-demo-1.go
+程序中书写着所见所闻所感，编译着心中的万水千山。
